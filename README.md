@@ -28,7 +28,7 @@
 
 
 [![Gmail Badge](https://img.shields.io/badge/-arnoldmelet18@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:arnoldmelet18@gmail.com)](mailto:arnoldmelet18@gmail.com)
-[![Linkedin Badge](https://img.shields.io/badge/-minoveaz-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/arnoldmelet)](https://www.linkedin.com/in/arnoldmelet/)
+[![Linkedin Badge](https://img.shields.io/badge/-arnoldmelet-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/arnoldmelet)](https://www.linkedin.com/in/arnoldmelet/)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white&link=https://github.com/arnoldm94)](https://github.com/arnoldm94)
 
 
