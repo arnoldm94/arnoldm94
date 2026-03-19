@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Arnold Melet 🐵</h1>
 <h3 align="center">A passionate mechanical engineer and web developer</h3>
+<h4 align="center">My works are here -->
+https://portfolio-arnold-melet.vercel.app/
+</h4>
 
-<p align="left"> <img src="./laptop-2838921_1280.jpg" alt="work photo" /> </p>
 
 - 🌱 I’m currently learning Web Development Technologies in Frontend <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="angular-js" width="25" height="25" />  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="25" height="25" /> Backend <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="25" height="25" />
  and Databases (MongoDB).
